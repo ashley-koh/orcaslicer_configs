@@ -7,6 +7,7 @@
     ],
     "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\n",
     "best_object_pos": "0.5,0.5",
+    "change_extrusion_role_gcode": "",
     "change_filament_gcode": "",
     "cooling_tube_length": "5",
     "cooling_tube_retraction": "91.5",
@@ -115,9 +116,9 @@
         "0.32"
     ],
     "min_layer_height": [
-        "0.08"
+        "0.1"
     ],
-    "name": "Voron 2.4",
+    "name": "Ashley's Voron 2.4",
     "nozzle_diameter": [
         "0.4"
     ],
@@ -136,7 +137,7 @@
     "printable_height": "275",
     "printer_model": "Voron 2.4 300",
     "printer_notes": "",
-    "printer_settings_id": "Voron 2.4",
+    "printer_settings_id": "Ashley's Voron 2.4",
     "printer_structure": "undefine",
     "printer_technology": "FFF",
     "printer_variant": "0.4",
